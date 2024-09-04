@@ -51,14 +51,7 @@ namespace WardIsLove
 
         public enum WardModelTypes
         {
-            Thor = 0,
-            Loki = 1,
-            Hel = 2,
-            Default = 3,
-            BetterWard = 4,
-            BetterWardType2 = 5,
-            BetterWardType3 = 6,
-            BetterWardType4 = 7,
+            Default = 0
         }
 
         public enum WardDamageTypes
